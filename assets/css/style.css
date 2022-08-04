@@ -61,6 +61,9 @@ header a:hover{
     gap: 15px;
     color: rgb(107, 107, 107);
 }
+.login-cadastro a{
+    color: rgb(107, 107, 107);
+}
 .login-cadastro a:nth-child(2){
     background-color: #ffffff;
     color: rgb(14, 13, 13);
