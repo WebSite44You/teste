@@ -46,6 +46,10 @@ header a:hover{
     gap: 40px;
     color: rgb(107, 107, 107);
 }
+.nav-bar a{
+    color: rgb(107, 107, 107);
+
+}
 .nav-bar a:nth-child(1){
     font-weight: 900;
     text-decoration: underline;
